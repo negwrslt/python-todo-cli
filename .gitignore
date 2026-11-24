@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE & Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Runtime data files
+test_*.csv
+todolist.csv
