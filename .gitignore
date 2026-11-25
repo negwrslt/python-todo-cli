@@ -19,3 +19,6 @@ ENV/
 # Runtime data files
 test_*.csv
 todolist.csv
+
+# Local audit & private backlog
+audit.md
